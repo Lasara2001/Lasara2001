@@ -114,13 +114,13 @@ Growing my knowledge in **Cybersecurity, authentication, secure application deve
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,mysql&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,mysql,c#&perline=7" />
 </p>
 
 ### 📱 Frameworks & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,angular,spring&perline=4" />
+<img src="https://skillicons.dev/icons?i=flutter,react,angular,spring,next,typescript&perline=4" />
 </p>
 
 ### 🛠️ Tools & Platforms
