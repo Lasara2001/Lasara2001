@@ -177,7 +177,7 @@ A **Mother & Baby Care System** designed to support maternal and child healthcar
 
 <div align="center">
 
-<a href="(https://github.com/Lasara2001/Fullstack-Task-Tracker---DotNet--React.git)">
+<a href="https://github.com/Lasara2001/Fullstack-Task-Tracker---DotNet--React.git">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
