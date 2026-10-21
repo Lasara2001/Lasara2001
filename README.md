@@ -23,7 +23,8 @@
 <a href="www.linkedin.com/in/sanduni-lasara">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="sandunilasara2001@gmail.com">     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="sandunilasara2001@gmail.com">
+ <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -34,17 +35,24 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩‍💻  About Me
 
 ```yaml
-name: Sanduni Lasara
-location: Sri Lanka
-education: IT Undergraduate — University of Moratuwa
-focus:
-  - Software Engineering
-  - Mobile Application Development
-  - Web Development
-  - Cybersecurity
+I'm an IT undergraduate at the Institute of Technology, University of Moratuwa, passionate about transforming ideas into practical software solutions.
+
+🎓 Currently pursuing my studies in Information Technology
+
+📱 Interested in Mobile Application Development
+
+💻 Passionate about Software Engineering
+
+🌐 Exploring Web Application Development
+
+🔐 Currently developing my knowledge in Cybersecurity
+
+🎨 Interested in creating clean and user-friendly UI/UX
+
+🚀 Always learning new technologies and improving my development skills
 
 currently_learning:
   - Advanced Flutter
@@ -53,21 +61,11 @@ currently_learning:
   - Software Engineering Practices
   - Cybersecurity
 
+I enjoy working across mobile, web and backend technologies, with a particular interest in building applications that are useful, intuitive and scalable.
+
+
 mindset: "Learn → Build → Improve → Repeat"
 ```
-
-I'm an **IT undergraduate at the Institute of Technology, University of Moratuwa**, passionate about transforming ideas into practical software solutions.
-
-I enjoy working across **mobile, web, and backend technologies**, with a particular interest in building applications that are useful, intuitive, and scalable.
-
-🔹 Mobile Application Development
-🔹 Full-Stack Development
-🔹 REST API Integration
-🔹 UI/UX & Product Design
-🔹 Software Engineering
-🔹 Cybersecurity
-
----
 
 ## ⚡ What I Build
 
