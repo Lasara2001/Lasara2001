@@ -160,12 +160,12 @@ A **Mother & Baby Care System** designed to support maternal and child healthcar
 
 **Key Features**
 
-* 👩‍🍼 Maternal health management
-* 👶 Baby health records
-* 💉 Vaccination records
-* 📊 Clinic measurements
-* 🔔 Notifications
-* 📄 Health reports
+👩‍🍼 Maternal health management
+👶 Baby health records
+💉 Vaccination records
+📊 Clinic measurements
+🔔 Notifications
+📄 Health reports
 
 🏆 **Best Project Poster Presentation Award — IRC 2025**
 
@@ -188,15 +188,14 @@ A **Mother & Baby Care System** designed to support maternal and child healthcar
 A modern, responsive full-stack task management application. It provides a clean interface for users
 **Tech Stack**
 
-`Flutter` `Angular` `Spring Boot` `REST API`
+`.NET 10` `TypeScrip` `C#` `React` `CSS3` `Axios` `Microsoft SQL Server`
 
 **Key Features**
 
-* ➕ Add Tasks: Quick task entry with immediate UI updates.
-* 📋 View Tasks: Fetch and display real-time task lists from SQL Server.
-* 🗑️ Delete Tasks: Remove completed or unwanted tasks seamlessly.
-* 🌙 Dark / Light Mode: Custom toggle button for smooth theme switching.
-* 🔌 RESTful API & CORS: Integrated cross-origin request policies between React and .NET.
+➕ Add Tasks: Quick task entry with immediate UI updates.
+📋 View Tasks: Fetch and display real-time task lists from SQL Server.
+🗑️ Delete Tasks: Remove completed or unwanted tasks seamlessly.
+🌙 Dark / Light Mode: Custom toggle button for smooth theme switching.
 
 </td>
 
