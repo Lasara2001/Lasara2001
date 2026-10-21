@@ -173,11 +173,11 @@ A **Mother & Baby Care System** designed to support maternal and child healthcar
 
 <td width="50%" valign="top">
 
-<h3 align="center">📱 EDDS Mobile</h3>
+<h3 align="center">📝 Full-Stack Task Tracker App </h3>
 
 <div align="center">
 
-<a href="YOUR_EDDS_REPO">
+<a href="(https://github.com/Lasara2001/Fullstack-Task-Tracker---DotNet--React.git)">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -185,21 +185,18 @@ A **Mother & Baby Care System** designed to support maternal and child healthcar
 
 <br>
 
-Enterprise document management mobile application developed during industrial training.
-
+A modern, responsive full-stack task management application. It provides a clean interface for users
 **Tech Stack**
 
 `Flutter` `Angular` `Spring Boot` `REST API`
 
 **Key Features**
 
-* 📁 File & folder management
-* 🔍 Search
-* 👁️ File preview
-* ⭐ Favorites
-* 🔔 Notifications
-* 🔐 Security features
-* 🔄 API integration
+* ➕ Add Tasks: Quick task entry with immediate UI updates.
+* 📋 View Tasks: Fetch and display real-time task lists from SQL Server.
+* 🗑️ Delete Tasks: Remove completed or unwanted tasks seamlessly.
+* 🌙 Dark / Light Mode: Custom toggle button for smooth theme switching.
+* 🔌 RESTful API & CORS: Integrated cross-origin request policies between React and .NET.
 
 </td>
 
