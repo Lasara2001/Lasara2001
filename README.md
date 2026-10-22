@@ -128,7 +128,7 @@ Growing my knowledge in **Cybersecurity, authentication, secure application deve
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode,androidstudio,figma,postman&perline=6" />
 </p>
 
 ---
