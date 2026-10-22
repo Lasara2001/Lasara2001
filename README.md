@@ -61,7 +61,7 @@ currently_learning:
   - Cloud Deployment and CI/CD
   - Angular and Spring Boot
   - Software Engineering Practices
-  - Cybersecurity
+  - Cybersecurity Fundamentals
 
 I enjoy working across mobile, web and backend technologies, with a particular interest in building applications that are useful, intuitive and scalable.
 
