@@ -56,8 +56,10 @@ I'm an IT undergraduate at the Institute of Technology, University of Moratuwa, 
 
 currently_learning:
   - Advanced Flutter
-  - Angular
-  - Spring Boot
+  - MERN Stack
+  - AWS Cloud Computing
+  - Cloud Deployment and CI/CD
+  - Angular and Spring Boot
   - Software Engineering Practices
   - Cybersecurity
 
