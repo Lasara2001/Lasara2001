@@ -42,15 +42,17 @@ I'm an IT undergraduate at the Institute of Technology, University of Moratuwa, 
 
 🎓 Currently pursuing my studies in Information Technology
 
-📱 Interested in Mobile Application Development
+📱 Interested in Mobile Application Development with Flutter
 
-💻 Passionate about Software Engineering
+💻 Passionate about Software Engineering and problem-solving
 
-🌐 Exploring Web Application Development
+🌐 Exploring Web Application Development with Backend Development
 
 🔐 Currently developing my knowledge in Cybersecurity
 
-🎨 Interested in creating clean and user-friendly UI/UX
+☁️ Exploring AWS and Cloud Computing
+
+🎨 Interested in creating clean, intuitive and user-friendly UI/UX
 
 🚀 Always learning new technologies and improving my development skills
 
@@ -63,7 +65,7 @@ currently_learning:
   - Software Engineering Practices
   - Cybersecurity Fundamentals
 
-I enjoy working across mobile, web and backend technologies, with a particular interest in building applications that are useful, intuitive and scalable.
+My goal: To build useful, reliable and user-friendly applications while continuously growing as a software engineer.
 
 
 mindset: "Learn → Build → Improve → Repeat"
