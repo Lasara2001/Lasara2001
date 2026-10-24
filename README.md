@@ -226,7 +226,7 @@ A weather application providing real-time weather information using location ser
 
 **Tech Stack**
 
-`Flutter` `Dart` `REST API` `JSON`
+`Flutter` `Dart` `OPENWEATHERMAP API` `JSON`
 
 **Key Features**
 
